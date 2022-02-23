@@ -9,6 +9,10 @@ My best friend Stackoverflow <img src="https://media.giphy.com/media/ZZg7XJ7Bs9i
 [![GitHub BrunoGGM](https://img.shields.io/github/followers/BrunoGGM?label=follow&style=social)](https://github.com/BrunoGGM)
 
 
+### I participated:
+[Ciclo especializado IV](https://github.com/innovaccion-virtual) & [Launch X](https://github.com/LaunchX-InnovaccionVirtual) by [@microsoft](https://github.com/microsoft)
+
+
 ### Languages and Tools:
 
 
