@@ -37,7 +37,7 @@ My best friend Stackoverflow <img src="https://media.giphy.com/media/ZZg7XJ7Bs9i
 const BRUNO = {
   pronouns: 'he | him',
   code: ['PHP', 'Javascript', 'HTML', 'CSS', 'Python', 'SQL'],
-  tools: ['Vue': [ 'VueX', 'Vue Router'], 'bootstrap' 'Laravel', 'Node', 'Azure', 'LHC Forms'],
+  tools: ['Vue': [ 'VueX', 'Vue Router'], 'bootstrap' 'Laravel', 'Node', 'Azure'],
   workplace: '@CARES',
   position: 'Fullstack developer',
   description: 'Develop web systems oriented to telemedicine, evaluation of health technologies 
