@@ -35,7 +35,6 @@ My best friend Stackoverflow <img src="https://media.giphy.com/media/ZZg7XJ7Bs9i
 
 ```javascript
 const BRUNO = {
-  pronouns: 'he | him',
   code: ['PHP', 'Javascript', 'HTML', 'CSS', 'Python', 'SQL'],
   tools: ['Vue': [ 'VueX', 'Vue Router'], 'bootstrap' 'Laravel', 'Node', 'Azure'],
   workplace: '@CARES',
