@@ -1,5 +1,6 @@
 <h2> Hello, I'm Bruno Gómez! <img src="https://media.giphy.com/media/3owyplYLWlGFQk9mF2/giphy.gif" width="70"></h2>
-<img align='right' src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="230">
+
+<img  style="float: right;" align='right' src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="230">
 
 <p><em>Tech Lover <img src="https://media.giphy.com/media/nERMP8fuaZqvM6i94v/giphy.gif" width="40">
 </br>
