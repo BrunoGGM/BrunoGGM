@@ -38,9 +38,8 @@ My best friend Stackoverflow <img src="https://media.giphy.com/media/ZZg7XJ7Bs9i
 const BRUNO = {
   code: ['PHP', 'Javascript', 'HTML', 'CSS', 'Python', 'SQL'],
   tools: ['Vue': [ 'VueX', 'Vue Router'], 'bootstrap' 'Laravel', 'Node', 'Azure'],
-  workplace: '@CARES',
+  workplace: 'lirmi.com',
   position: 'Fullstack developer',
-  description: 'Develop web systems oriented to telemedicine, evaluation of health technologies 
-  and research and training in health informatics'
+  description: 'Lirmi is the main Edtech K12 in Latin America. We help schools transform into super schools: Powered by software, data, intelligence, gamification, learning science and interactive content.'
 }
 ```
