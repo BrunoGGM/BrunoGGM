@@ -26,6 +26,7 @@ My best friend Stackoverflow <img src="https://media.giphy.com/media/ZZg7XJ7Bs9i
 <code><img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="40"> </code>
 <code><img src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif" width="40"> </code>
 <code><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="40"> </code>
+<code><img src="https://nuxtjs.org/design-kit/colored-white-text.png" width="100"> </code>
 
 <code><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="40"> </code>
 <code><img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="40"> </code>
