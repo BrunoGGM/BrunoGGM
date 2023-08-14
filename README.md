@@ -32,6 +32,7 @@ My best friend Stackoverflow <img src="https://media.giphy.com/media/ZZg7XJ7Bs9i
 <code><img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="40"> </code>
 <code><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="40"> </code>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoGGM&size_weight=0.5&count_weight=0.5&theme=dracula&langs_count=8&hide_border=true)
 
 ### A little more about me...  
 
